@@ -1,0 +1,43 @@
+h1{
+	text-align: center;
+	color: #0000CC;
+}
+h2{
+	color: #ffffff;
+	text-align: center;
+}
+p{
+	color: /*#ffffff*/;
+}
+span{
+    text-align: right;
+}
+a{
+    display: inline;
+    font-weight: bold;
+    color: #ffffff;
+    background: #0006CC;
+    width: 200px;
+    text-align: left;
+    padding: 4px;
+    text-decoration: none;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+a: hover{
+    background: #B3B3B3;
+    color: #0006CC;
+}
+a: focus{
+    background: #B3B3B3;
+    color: #0006CC;
+}
+a: active{
+    border: 3px solid #000000;
+}
+body{
+    background-color: #B3B3B3;
+}
+div{
+    font-size: 150%;
+}

@@ -1,0 +1,27 @@
+ body{
+    background: #a4ab3dcf;
+    padding: 1px;
+    margin: 1px;
+    font-size: 28px;
+    /*background-image: url('../img/1.jpg');*/
+}
+
+header{
+    background: #116b06;
+     
+     
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 32px;
+   
+
+
+}
+h2{
+    color: #081267;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    
